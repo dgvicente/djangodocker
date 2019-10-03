@@ -1,0 +1,1 @@
+Test how to test a django project using docker and deploy in CircleCI
